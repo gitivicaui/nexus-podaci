@@ -1,4 +1,4 @@
-Izvoz 2026-09-23 21:25 UTC | FTMO-Server4 | do 2026-09-23 | zona OK | 78 s
+Izvoz 2026-09-23 21:51 UTC | FTMO-Server4 | do 2026-09-23 | zona OK | 76 s
 GREŠKE (0):
 UPOZORENJA (36):
   - US500.cash M15 2018: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću

@@ -38,3 +38,43 @@ UPOZORENJA (36):
   - EU50.cash H1 2026: medijan 14 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
   - JP225.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
 
+Izvoz 2026-09-23 21:51 UTC | FTMO-Server4 | do 2026-09-23 | zona OK | 76 s
+GREŠKE (0):
+UPOZORENJA (36):
+  - US500.cash M15 2018: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - US500.cash M15 2019: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - US500.cash M15 2020: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - US500.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - US500.cash H1 2018: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - US500.cash H1 2019: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - US500.cash H1 2020: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - US100.cash M15 2018: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - US100.cash M15 2019: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - US100.cash M15 2020: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - US100.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - US100.cash H1 2018: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - US100.cash H1 2019: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - US100.cash H1 2020: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - US30.cash M15 2018: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - US30.cash H1 2018: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - UK100.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash M15 2018: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash M15 2019: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash M15 2020: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash H1 2018: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash H1 2019: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash H1 2020: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash M15 2018: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash M15 2019: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash M15 2020: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash M15 2025: medijan 56 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash M15 2026: medijan 56 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash H1 2018: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash H1 2019: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash H1 2020: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash H1 2025: medijan 14 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash H1 2026: medijan 14 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
+  - JP225.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+
