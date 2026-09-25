@@ -78,3 +78,78 @@ UPOZORENJA (36):
   - EU50.cash H1 2026: medijan 14 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
   - JP225.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
 
+Izvoz 2026-09-25 14:54 UTC | FTMO-Server4 | do 2026-09-24 | zona OK | 96 s
+GREŠKE (0):
+UPOZORENJA (16):
+  - US500.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - US100.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - UK100.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash M15 2018: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash M15 2019: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash M15 2020: medijan 1 barova/dan = 1% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash H1 2018: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash H1 2019: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - GER40.cash H1 2020: medijan 1 barova/dan = 4% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash M15 2025: medijan 56 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash M15 2026: medijan 56 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash H1 2025: medijan 14 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
+  - EU50.cash H1 2026: medijan 14 barova/dan = 61% najbolje godine — NE miješati s gustom poviješću
+  - JP225.cash M15 2021: medijan 22 barova/dan = 24% najbolje godine — NE miješati s gustom poviješću
+NAPOMENE (54):
+  - US500.cash M15: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-21 21:00) — odbačeno, povijest počinje 2021
+  - US500.cash M15: OBRISANO M15/US500_cash_M15_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US500.cash M15: OBRISANO M15/US500_cash_M15_2019.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US500.cash M15: OBRISANO M15/US500_cash_M15_2020.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US500.cash M15: pocetak_povijesti ispravljen 2018 → 2021 (godine između imale su samo tuđe retke)
+  - US500.cash H1: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-21 21:00) — odbačeno, povijest počinje 2021
+  - US500.cash H1: OBRISANO H1/US500_cash_H1_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US500.cash H1: OBRISANO H1/US500_cash_H1_2019.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US500.cash H1: OBRISANO H1/US500_cash_H1_2020.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US500.cash H1: pocetak_povijesti ispravljen 2018 → 2021 (godine između imale su samo tuđe retke)
+  - US500.cash D1: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-21 00:00) — odbačeno, povijest počinje 2021
+  - US500.cash D1: OBRISANO D1/US500_cash_D1_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US500.cash D1: OBRISANO D1/US500_cash_D1_2019.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US500.cash D1: OBRISANO D1/US500_cash_D1_2020.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US500.cash D1: pocetak_povijesti ispravljen 2018 → 2021 (godine između imale su samo tuđe retke)
+  - US100.cash M15: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-21 22:00) — odbačeno, povijest počinje 2021
+  - US100.cash M15: OBRISANO M15/US100_cash_M15_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US100.cash M15: OBRISANO M15/US100_cash_M15_2019.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US100.cash M15: OBRISANO M15/US100_cash_M15_2020.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US100.cash M15: pocetak_povijesti ispravljen 2018 → 2021 (godine između imale su samo tuđe retke)
+  - US100.cash H1: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-21 22:00) — odbačeno, povijest počinje 2021
+  - US100.cash H1: OBRISANO H1/US100_cash_H1_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US100.cash H1: OBRISANO H1/US100_cash_H1_2019.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US100.cash H1: OBRISANO H1/US100_cash_H1_2020.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US100.cash H1: pocetak_povijesti ispravljen 2018 → 2021 (godine između imale su samo tuđe retke)
+  - US100.cash D1: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-21 00:00) — odbačeno, povijest počinje 2021
+  - US100.cash D1: OBRISANO D1/US100_cash_D1_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US100.cash D1: OBRISANO D1/US100_cash_D1_2019.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US100.cash D1: OBRISANO D1/US100_cash_D1_2020.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US100.cash D1: pocetak_povijesti ispravljen 2018 → 2021 (godine između imale su samo tuđe retke)
+  - US30.cash M15: za 2018 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2019-02-08 14:15) — odbačeno, povijest počinje 2019
+  - US30.cash M15: OBRISANO M15/US30_cash_M15_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US30.cash M15: pocetak_povijesti ispravljen 2018 → 2019 (godine između imale su samo tuđe retke)
+  - US30.cash H1: za 2018 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2019-02-08 14:00) — odbačeno, povijest počinje 2019
+  - US30.cash H1: OBRISANO H1/US30_cash_H1_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US30.cash H1: pocetak_povijesti ispravljen 2018 → 2019 (godine između imale su samo tuđe retke)
+  - US30.cash D1: za 2018 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2019-02-08 00:00) — odbačeno, povijest počinje 2019
+  - US30.cash D1: OBRISANO D1/US30_cash_D1_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - US30.cash D1: pocetak_povijesti ispravljen 2018 → 2019 (godine između imale su samo tuđe retke)
+  - EU50.cash M15: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-20 19:00) — odbačeno, povijest počinje 2021
+  - EU50.cash M15: OBRISANO M15/EU50_cash_M15_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - EU50.cash M15: OBRISANO M15/EU50_cash_M15_2019.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - EU50.cash M15: OBRISANO M15/EU50_cash_M15_2020.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - EU50.cash M15: pocetak_povijesti ispravljen 2018 → 2021 (godine između imale su samo tuđe retke)
+  - EU50.cash H1: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-20 19:00) — odbačeno, povijest počinje 2021
+  - EU50.cash H1: OBRISANO H1/EU50_cash_H1_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - EU50.cash H1: OBRISANO H1/EU50_cash_H1_2019.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - EU50.cash H1: OBRISANO H1/EU50_cash_H1_2020.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - EU50.cash H1: pocetak_povijesti ispravljen 2018 → 2021 (godine između imale su samo tuđe retke)
+  - EU50.cash D1: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-20 00:00) — odbačeno, povijest počinje 2021
+  - EU50.cash D1: OBRISANO D1/EU50_cash_D1_2018.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - EU50.cash D1: OBRISANO D1/EU50_cash_D1_2019.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - EU50.cash D1: OBRISANO D1/EU50_cash_D1_2020.csv.gz — datoteka s 1 tuđih redaka (lažna povijest, zaštita 8)
+  - EU50.cash D1: pocetak_povijesti ispravljen 2018 → 2021 (godine između imale su samo tuđe retke)
+
