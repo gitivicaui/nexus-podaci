@@ -40,14 +40,14 @@
   "USDCAD|H1": 2018,
   "USDCAD|D1": 2018
  },
- "verzija_skripte": "2026-09-24",
- "izvezeno_utc": "2026-09-25 14:54",
- "do_ukljucivo_broker": "2026-09-24",
+ "verzija_skripte": "2026-10-11",
+ "izvezeno_utc": "2026-10-15 17:36",
+ "do_ukljucivo_broker": "2026-10-14",
  "server": "FTMO-Server4",
  "company": "FTMO Global Markets Ltd",
  "zona_brokera": "America/New_York +7 h",
  "zona_provjera": "OK",
- "zona_opis": "BTCUSD: broker = UTC+3 = America/New_York +7 h",
+ "zona_opis": "US100.cash: broker = UTC+3 = America/New_York +7 h",
  "napomena": "time_broker je BROKEROV ZIDNI SAT = New York + 7 h (NE UTC, NE Europe/Helsinki)",
  "datoteke": {
   "D1/AUDUSD_D1_2018.csv.gz": {
@@ -142,11 +142,11 @@
    "simbol": "AUDUSD",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 190,
+   "redaka": 204,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "6668f0c767ffa67f02eb9b746272ef93f308693f9a564d05262400cd9fa1eab8",
-   "dana": 190,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "76e8b48b6b1ac1f7065b291c39cfc78a70e052e469c492ab11f5d8b3ce435f92",
+   "dana": 204,
    "medijan_barova_dan": 1.0
   },
   "D1/EU50_cash_D1_2021.csv.gz": {
@@ -208,11 +208,11 @@
    "simbol": "EU50.cash",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 187,
+   "redaka": 201,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "18a7807e378f0a858434763cea198ed6acbc36d480bdd2cf84e6f637f0f685e8",
-   "dana": 187,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "8116d57faa36c0c5430b95df7eb1e390a9a0c4ad5e850107e02315c92a2a8dc8",
+   "dana": 201,
    "medijan_barova_dan": 1.0
   },
   "D1/EURUSD_D1_2018.csv.gz": {
@@ -277,7 +277,7 @@
    "redaka": 259,
    "prvi": "2023-01-02 00:00",
    "zadnji": "2023-12-29 00:00",
-   "sha256": "7a86a123704cbfc8cb9b06a0c32212a50ddaba7657807fa2136c05bddb2c12a0",
+   "sha256": "b22af4c62534f6675c766acc17b2bacf396e27c7e648857a8f4c772c5e060060",
    "dana": 259,
    "medijan_barova_dan": 1.0
   },
@@ -307,11 +307,11 @@
    "simbol": "EURUSD",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 190,
+   "redaka": 204,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "dc6852df4feee01916e7d163f6c95f3c325bd98a48d3b93fdd3f2a7ee3a8177b",
-   "dana": 190,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "97c76f95e7584dff2e8e372a1382c0513b948d23eaa125520061e4c5ba7debdf",
+   "dana": 204,
    "medijan_barova_dan": 1.0
   },
   "D1/GBPUSD_D1_2018.csv.gz": {
@@ -376,7 +376,7 @@
    "redaka": 259,
    "prvi": "2023-01-02 00:00",
    "zadnji": "2023-12-29 00:00",
-   "sha256": "cd1d41a67af4f466813ae718eeee8b8a2388ba13a16aeb29e30702fbd53c9208",
+   "sha256": "400ee305a8253988bbbe94e37ae831dbe59ccb6758ac38cc5cbd751425d29d29",
    "dana": 259,
    "medijan_barova_dan": 1.0
   },
@@ -406,11 +406,11 @@
    "simbol": "GBPUSD",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 190,
+   "redaka": 204,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "b247b09730fff67d5eb9a9e23e6985336411e114eee89d3ad1de9202dc541929",
-   "dana": 190,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "66dbecf71a9dae25a7b49bec1be5d47f61e4df1176a31a83b2b52994dddf112f",
+   "dana": 204,
    "medijan_barova_dan": 1.0
   },
   "D1/GER40_cash_D1_2018.csv.gz": {
@@ -505,11 +505,11 @@
    "simbol": "GER40.cash",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 187,
+   "redaka": 201,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "c8b37c6048930cd8856f9c93895f83658e03b42026a8bc1e0ca2e00870f4217b",
-   "dana": 187,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "6c27420fa48c330d270c800f7c17b01dc528246567020e701e583b27167cf9a9",
+   "dana": 201,
    "medijan_barova_dan": 1.0
   },
   "D1/JP225_cash_D1_2021.csv.gz": {
@@ -571,11 +571,11 @@
    "simbol": "JP225.cash",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 190,
+   "redaka": 204,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "1120cefde0b4ec857676feb827786d139d6b7cdb9a5acdda231d016061ed04d6",
-   "dana": 190,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "dbeb5227aa62c49669063c52130c5f660ea638308b92f5637a84fd6e8987004a",
+   "dana": 204,
    "medijan_barova_dan": 1.0
   },
   "D1/UK100_cash_D1_2021.csv.gz": {
@@ -637,11 +637,11 @@
    "simbol": "UK100.cash",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 185,
+   "redaka": 199,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "74aab24cb6ce1498f937eadf10c8fb82ef433e3837ea60f618e90bdd15146bfb",
-   "dana": 185,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "c18ac9661b327d92f9e37b45d39266f738f6d6c23273cf1213910a78bc4ddecd",
+   "dana": 199,
    "medijan_barova_dan": 1.0
   },
   "D1/US100_cash_D1_2021.csv.gz": {
@@ -703,11 +703,11 @@
    "simbol": "US100.cash",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 190,
+   "redaka": 204,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "0534b447f607794f414df39dd9435164fb46815433928a2917cb75d3b49676d1",
-   "dana": 190,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "ac1ff9370550cdecafcfbff9771582d3a09556aba122f25dfa3a04036c2f030d",
+   "dana": 204,
    "medijan_barova_dan": 1.0
   },
   "D1/US30_cash_D1_2019.csv.gz": {
@@ -791,11 +791,11 @@
    "simbol": "US30.cash",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 190,
+   "redaka": 204,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "28049c7c3462d0dc04adc3de452c06334a915031d6271934c7cf4d90a81a7766",
-   "dana": 190,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "686b162bb161e783e87a7144dff68cb2da71dcd3875b67b7196cc86937f1e6a0",
+   "dana": 204,
    "medijan_barova_dan": 1.0
   },
   "D1/US500_cash_D1_2021.csv.gz": {
@@ -857,11 +857,11 @@
    "simbol": "US500.cash",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 190,
+   "redaka": 204,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "73ed71910526b188f87a59cf727bfb83701b11b324548b136dec66fea94e9f57",
-   "dana": 190,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "40456f2483010d212a34f2b4162dc7bc17241caf5cb955f635633c1c47fcea4c",
+   "dana": 204,
    "medijan_barova_dan": 1.0
   },
   "D1/USDCAD_D1_2018.csv.gz": {
@@ -956,11 +956,11 @@
    "simbol": "USDCAD",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 190,
+   "redaka": 204,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "71711b93ec28d59c9f0f0a765cc46f7e84f943b197e097c058b6138d51280719",
-   "dana": 190,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "f05a52dbff94cb3caf5d22827c7995fa476970abe9fb9aec498628e621272b1e",
+   "dana": 204,
    "medijan_barova_dan": 1.0
   },
   "D1/USDJPY_D1_2018.csv.gz": {
@@ -1025,7 +1025,7 @@
    "redaka": 259,
    "prvi": "2023-01-02 00:00",
    "zadnji": "2023-12-29 00:00",
-   "sha256": "03b135010c5eaf18b1f3acbde5ad89eccf2aa0b0e9abda95aa8fdb591f896b48",
+   "sha256": "3c2696fd023be52b54e1eb560c7aa702d7158982614ccae1ede13f4c4729c38e",
    "dana": 259,
    "medijan_barova_dan": 1.0
   },
@@ -1055,11 +1055,11 @@
    "simbol": "USDJPY",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 190,
+   "redaka": 204,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "a6a7efb6d6ab19da8602b12d27f4bcc11991fe728b57d964d8447aeeee90037e",
-   "dana": 190,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "d4837cb0274d8fc95dac7da15956544649c93271f2cbce60ad23b133efba2546",
+   "dana": 204,
    "medijan_barova_dan": 1.0
   },
   "D1/XAUUSD_D1_2018.csv.gz": {
@@ -1154,11 +1154,11 @@
    "simbol": "XAUUSD",
    "tf": "D1",
    "godina": 2026,
-   "redaka": 189,
+   "redaka": 203,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 00:00",
-   "sha256": "f0f3873d4d127b29a87429173e22185ab2d978fbcf0f7ec885e53871d91f8f6c",
-   "dana": 189,
+   "zadnji": "2026-10-14 00:00",
+   "sha256": "c94d9df9b898ab56bf0fb36982c64ce9260a7db226f38daadd0bec53fa135427",
+   "dana": 203,
    "medijan_barova_dan": 1.0
   },
   "H1/AUDUSD_H1_2018.csv.gz": {
@@ -1261,11 +1261,11 @@
    "simbol": "AUDUSD",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4560,
+   "redaka": 4896,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "645c1b752cf67ba5ef9c69887e108293baa517637dfb74a76e1ff089787b011b",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "e388eb429dd94bece2efce26f058e1f5d743dde426aa03e7f4ce2cba179f87b7",
+   "dana": 204,
    "medijan_barova_dan": 24.0,
    "udio_kvalitete": 1.0
   },
@@ -1333,11 +1333,11 @@
    "simbol": "EU50.cash",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 2618,
+   "redaka": 2814,
    "prvi": "2026-01-02 09:00",
-   "zadnji": "2026-09-24 22:00",
-   "sha256": "1dc7bc037b6a9fd114ac85bfecacaa7c1372b7768b5ad7fae54705684761bacc",
-   "dana": 187,
+   "zadnji": "2026-10-14 22:00",
+   "sha256": "70ef5b9be98773f5930df8e92f0caea4d49187d8bdabdb91a94748fd283fa700",
+   "dana": 201,
    "medijan_barova_dan": 14.0,
    "udio_kvalitete": 0.609
   },
@@ -1405,10 +1405,10 @@
    "simbol": "EURUSD",
    "tf": "H1",
    "godina": 2023,
-   "redaka": 6215,
+   "redaka": 6216,
    "prvi": "2023-01-02 00:00",
    "zadnji": "2023-12-29 23:00",
-   "sha256": "46f8233ccf299d7a5a8947dfd7f227b8d11187e68dec2e6610b5476b2d777102",
+   "sha256": "2ca7b0578773f3f47753f8efeabc951a51a97bd557bbf5e60a4286a73de0485e",
    "dana": 259,
    "medijan_barova_dan": 24.0,
    "udio_kvalitete": 1.0
@@ -1441,11 +1441,11 @@
    "simbol": "EURUSD",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4560,
+   "redaka": 4896,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "5c0dd5c34fadb0dd9fe9034d7288e2f1315c81f2a3b595747dcb18d5c937850f",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "e74c5639398683ac4bd97289b7760b3bbb8a720ea720fe1b982fbbaa09bf7baa",
+   "dana": 204,
    "medijan_barova_dan": 24.0,
    "udio_kvalitete": 1.0
   },
@@ -1513,10 +1513,10 @@
    "simbol": "GBPUSD",
    "tf": "H1",
    "godina": 2023,
-   "redaka": 6215,
+   "redaka": 6216,
    "prvi": "2023-01-02 00:00",
    "zadnji": "2023-12-29 23:00",
-   "sha256": "2b97e539b17b504e2ee7f97e060dbc1750e70d8c25bc81e72bce33c75a2272bf",
+   "sha256": "4d5a25e350a21d26825a3efbb343e4cc773245ea311ab5899512e88d6341f427",
    "dana": 259,
    "medijan_barova_dan": 24.0,
    "udio_kvalitete": 1.0
@@ -1549,11 +1549,11 @@
    "simbol": "GBPUSD",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4560,
+   "redaka": 4896,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "297eada3531cd03ff8a5fec051be14b4a1208154df32477248a93c3ca41a9922",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "306acfd3931f8751e7d2435341a6ba760de0de941829eb3339b8381e877fea36",
+   "dana": 204,
    "medijan_barova_dan": 24.0,
    "udio_kvalitete": 1.0
   },
@@ -1657,11 +1657,11 @@
    "simbol": "GER40.cash",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4259,
+   "redaka": 4578,
    "prvi": "2026-01-02 02:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "a34bd38277ef09a3f1e1b752c8bdebaf08e0f30ad66060ac1b8d163a67e63cb6",
-   "dana": 187,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "97c1a7a5d5265e4293048f90f7301cda6b045f97219fa3c3ef89ee59865d5397",
+   "dana": 201,
    "medijan_barova_dan": 23.0,
    "udio_kvalitete": 1.0
   },
@@ -1729,11 +1729,11 @@
    "simbol": "JP225.cash",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4338,
+   "redaka": 4660,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "2e9a655b1e5b1474efd29674f84c300825506f31a77e513adefa0477215d8607",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "79ca96956e7c9034c18310421b7f3d022d54b6c1019ebbf3048c13d041420b0c",
+   "dana": 204,
    "medijan_barova_dan": 23.0,
    "udio_kvalitete": 1.0
   },
@@ -1801,11 +1801,11 @@
    "simbol": "UK100.cash",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4208,
+   "redaka": 4527,
    "prvi": "2026-01-02 03:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "37c3a15adc1757b48b3e3a8f5368c3a1f9077d00f0d89bc568d4a902aca01ec2",
-   "dana": 185,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "aaef614b1f139faa583dd11a4b3513e4766a680b9f9127d267e22fcd00ecd4e7",
+   "dana": 199,
    "medijan_barova_dan": 23.0,
    "udio_kvalitete": 1.0
   },
@@ -1873,11 +1873,11 @@
    "simbol": "US100.cash",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4339,
+   "redaka": 4661,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "ca1d73cbdae5dd8acfbebb5807df76869b7cddf018b976615178b998ba96fc49",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "58a7ec2e459e8a209d92eb090b480f02f1a7edb6d781de1899c06fbcd07c03ef",
+   "dana": 204,
    "medijan_barova_dan": 23.0,
    "udio_kvalitete": 1.0
   },
@@ -1891,6 +1891,15 @@
    "sha256": "504138ec2fc3ac6ff36c9a54154faddc847d7d8b9125dd2e1099f397a8a7bd8f",
    "dana": 209,
    "medijan_barova_dan": 22.0,
+   "krivi_tf": {
+    "dana": 1,
+    "rasponi": [
+     [
+      "2019-04-19",
+      "2019-04-19"
+     ]
+    ]
+   },
    "udio_kvalitete": 0.957
   },
   "H1/US30_cash_H1_2020.csv.gz": {
@@ -1903,6 +1912,19 @@
    "sha256": "98b92726708181985516f3f3269091a30b004fac2dbada088ffb8d473af80ccd",
    "dana": 261,
    "medijan_barova_dan": 23.0,
+   "krivi_tf": {
+    "dana": 2,
+    "rasponi": [
+     [
+      "2020-01-01",
+      "2020-01-01"
+     ],
+     [
+      "2020-04-10",
+      "2020-04-10"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "H1/US30_cash_H1_2021.csv.gz": {
@@ -1969,11 +1991,11 @@
    "simbol": "US30.cash",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4339,
+   "redaka": 4661,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "f15ccd506e3b020f6a693dbb53edd9ff6876a062f4e199fca0b2365a4414626f",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "ddeec243f909968439a75f6e09d5c84d7ee412ecf7c49a4c45b5e51dd8b30ffb",
+   "dana": 204,
    "medijan_barova_dan": 23.0,
    "udio_kvalitete": 1.0
   },
@@ -2041,11 +2063,11 @@
    "simbol": "US500.cash",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4339,
+   "redaka": 4661,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "96a6c335637af5fd7b24090d126d56b17cd2526a72a053634fa8c1eb9775eebd",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "b0be9357318c81320e42179aa6c54b3238882930ccf85a00aa6dd067d69f2b65",
+   "dana": 204,
    "medijan_barova_dan": 23.0,
    "udio_kvalitete": 1.0
   },
@@ -2149,11 +2171,11 @@
    "simbol": "USDCAD",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4560,
+   "redaka": 4896,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "87ceafccb2589270040bff23b336149495abea0b935d88cc1c315da990c70b8c",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "d3c2ae14aee4b5754c1b16561bd6bcbbfe931baf1034d185666f45b907e319d3",
+   "dana": 204,
    "medijan_barova_dan": 24.0,
    "udio_kvalitete": 1.0
   },
@@ -2221,10 +2243,10 @@
    "simbol": "USDJPY",
    "tf": "H1",
    "godina": 2023,
-   "redaka": 6215,
+   "redaka": 6216,
    "prvi": "2023-01-02 00:00",
    "zadnji": "2023-12-29 23:00",
-   "sha256": "f8452d081a19db758623c2c9aa76ee60051298099925d7cbed5801d5cad87cec",
+   "sha256": "30f9b033b825efab01643ce4a86b18200db2242233f2f0ede97e2dedb8e28df2",
    "dana": 259,
    "medijan_barova_dan": 24.0,
    "udio_kvalitete": 1.0
@@ -2257,11 +2279,11 @@
    "simbol": "USDJPY",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4560,
+   "redaka": 4896,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "c2016c1e73fa6513856162d8707c1ab8564213a372ccfb66695ce3a1998a70ed",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "b28bb945c28093465339e2bfcbf05206b35c5c77d83e31354dbe66dca3ea80ad",
+   "dana": 204,
    "medijan_barova_dan": 24.0,
    "udio_kvalitete": 1.0
   },
@@ -2365,11 +2387,11 @@
    "simbol": "XAUUSD",
    "tf": "H1",
    "godina": 2026,
-   "redaka": 4331,
+   "redaka": 4653,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 23:00",
-   "sha256": "0b80f523158abcb6f99ca07f238c7a9c128a5f320b4d04c320cda1d0ba2f531d",
-   "dana": 189,
+   "zadnji": "2026-10-14 23:00",
+   "sha256": "c47f09b1a7ea72475ab8a780402a64d7a0f0128f37c2c249838961b833b44c66",
+   "dana": 203,
    "medijan_barova_dan": 23.0,
    "udio_kvalitete": 1.0
   },
@@ -2443,6 +2465,15 @@
    "sha256": "3fa4d05d8d13d3c6e5e2ced978dd898f58fe1ed0049e6ca08dbe6668834629ac",
    "dana": 259,
    "medijan_barova_dan": 96.0,
+   "krivi_tf": {
+    "dana": 55,
+    "rasponi": [
+     [
+      "2023-09-01",
+      "2023-11-16"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "M15/AUDUSD_M15_2024.csv.gz": {
@@ -2473,11 +2504,11 @@
    "simbol": "AUDUSD",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 18149,
+   "redaka": 19583,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 01:15",
-   "sha256": "30f3988b9bff720d1a4f1ca042c3a7505c29551453c5206407ceb088f92909f1",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "a278a8eb37ffce03eb5c7e56882dc2c250c75c40a1efd4b4e9b9889e84f2640c",
+   "dana": 204,
    "medijan_barova_dan": 96.0,
    "udio_kvalitete": 1.0
   },
@@ -2491,6 +2522,19 @@
    "sha256": "2ff23c6acfdc6314387561a06b92e80d8fb6fbcd5aa075e424f99b123f5367a4",
    "dana": 244,
    "medijan_barova_dan": 22.0,
+   "krivi_tf": {
+    "dana": 166,
+    "rasponi": [
+     [
+      "2021-01-20",
+      "2021-04-01"
+     ],
+     [
+      "2021-04-06",
+      "2021-09-10"
+     ]
+    ]
+   },
    "udio_kvalitete": 0.239
   },
   "M15/EU50_cash_M15_2022.csv.gz": {
@@ -2515,6 +2559,15 @@
    "sha256": "a5fd3dd1d285922cecca742021805a0810c289c0af394d3f735a1732dd86873e",
    "dana": 255,
    "medijan_barova_dan": 91.0,
+   "krivi_tf": {
+    "dana": 46,
+    "rasponi": [
+     [
+      "2023-09-01",
+      "2023-11-03"
+     ]
+    ]
+   },
    "udio_kvalitete": 0.989
   },
   "M15/EU50_cash_M15_2024.csv.gz": {
@@ -2545,11 +2598,11 @@
    "simbol": "EU50.cash",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 10416,
+   "redaka": 11256,
    "prvi": "2026-01-02 09:00",
-   "zadnji": "2026-09-23 22:45",
-   "sha256": "c308b754e0af45557ada0380127a4da04f7d21d3dba65d4ceee6ab81975dc797",
-   "dana": 186,
+   "zadnji": "2026-10-14 22:45",
+   "sha256": "f8889ad59e8a7da5994be343cd2c66edc6776bcbb6ef6d27cbf6a59193621104",
+   "dana": 201,
    "medijan_barova_dan": 56.0,
    "udio_kvalitete": 0.609
   },
@@ -2617,10 +2670,10 @@
    "simbol": "EURUSD",
    "tf": "M15",
    "godina": 2023,
-   "redaka": 20900,
+   "redaka": 24864,
    "prvi": "2023-01-02 00:00",
    "zadnji": "2023-12-29 23:45",
-   "sha256": "e570d568c7ae74399abab9d73464d422d2f838854b5510bbb1fcb7417a71c649",
+   "sha256": "631bd28102a1695a697941aa43e2447681dd507b6c7298c991ab52916bcf350e",
    "dana": 259,
    "medijan_barova_dan": 96.0,
    "udio_kvalitete": 1.0
@@ -2653,11 +2706,11 @@
    "simbol": "EURUSD",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 18240,
+   "redaka": 19583,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 23:45",
-   "sha256": "7e1d01f740c8e1aa39365f6eb7db67b6e6a6e1398f82fceb6b5e0577003b0817",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "d57e303907dcb6425bed2d0b1d5088700b24390dc937514297ebfbc4eaff2792",
+   "dana": 204,
    "medijan_barova_dan": 96.0,
    "udio_kvalitete": 1.0
   },
@@ -2725,10 +2778,10 @@
    "simbol": "GBPUSD",
    "tf": "M15",
    "godina": 2023,
-   "redaka": 20900,
+   "redaka": 24863,
    "prvi": "2023-01-02 00:00",
    "zadnji": "2023-12-29 23:45",
-   "sha256": "f279abf7ef551d719f75df0a951c94c13e578073a2f4313106c4505352b48631",
+   "sha256": "6472ba21b7c26c965be7b03c4277da1b1d9ab607e464dce845905e46f838e062",
    "dana": 259,
    "medijan_barova_dan": 96.0,
    "udio_kvalitete": 1.0
@@ -2761,11 +2814,11 @@
    "simbol": "GBPUSD",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 18146,
+   "redaka": 18810,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 01:15",
-   "sha256": "d26aed11a1ddc12f8c9bc3cf404363646a38319649e74086710e33537aa43f30",
-   "dana": 190,
+   "zadnji": "2026-10-02 23:15",
+   "sha256": "bd70378c16d0b967ea24a7f873eb5b342d0c3d11c4941643e0c47b54b5760a0d",
+   "dana": 196,
    "medijan_barova_dan": 96.0,
    "udio_kvalitete": 1.0
   },
@@ -2815,6 +2868,15 @@
    "sha256": "c1532b61bc703fe46669a369e7f684a38ecb8015afa1d5b725fe5b63193f1b1a",
    "dana": 162,
    "medijan_barova_dan": 22.0,
+   "krivi_tf": {
+    "dana": 159,
+    "rasponi": [
+     [
+      "2021-05-18",
+      "2021-12-27"
+     ]
+    ]
+   },
    "udio_kvalitete": 0.239
   },
   "M15/GER40_cash_M15_2022.csv.gz": {
@@ -2839,6 +2901,15 @@
    "sha256": "ee431a38abcbb81ddec37de44dd0353cdbf7a3967e22b8ce5224564829ea1c78",
    "dana": 255,
    "medijan_barova_dan": 92.0,
+   "krivi_tf": {
+    "dana": 54,
+    "rasponi": [
+     [
+      "2023-09-01",
+      "2023-11-15"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "M15/GER40_cash_M15_2024.csv.gz": {
@@ -2869,11 +2940,11 @@
    "simbol": "GER40.cash",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 17033,
+   "redaka": 18309,
    "prvi": "2026-01-02 02:15",
-   "zadnji": "2026-09-24 23:45",
-   "sha256": "d5fb44ab905d50f8500f0395599be957adc8aec1e219a04d54dae9bb4e85ec8a",
-   "dana": 187,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "641daf825b570db9fd712fcb6091b5eee2afcf3a068dc08f571e57e84b1b875d",
+   "dana": 201,
    "medijan_barova_dan": 92.0,
    "udio_kvalitete": 1.0
   },
@@ -2887,6 +2958,15 @@
    "sha256": "970a7dc1347990af5903417a9a4377e1dfb08cb3c5e010c6dbb237460b033105",
    "dana": 246,
    "medijan_barova_dan": 22.0,
+   "krivi_tf": {
+    "dana": 167,
+    "rasponi": [
+     [
+      "2021-01-21",
+      "2021-09-10"
+     ]
+    ]
+   },
    "udio_kvalitete": 0.239
   },
   "M15/JP225_cash_M15_2022.csv.gz": {
@@ -2911,6 +2991,15 @@
    "sha256": "27daf06d7b349656945cc75b3f8be753e1fe2d3222a3fbb2405f885880fd7aca",
    "dana": 258,
    "medijan_barova_dan": 92.0,
+   "krivi_tf": {
+    "dana": 52,
+    "rasponi": [
+     [
+      "2023-09-01",
+      "2023-11-13"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "M15/JP225_cash_M15_2024.csv.gz": {
@@ -2941,11 +3030,11 @@
    "simbol": "JP225.cash",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 17259,
+   "redaka": 18637,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 01:15",
-   "sha256": "a00e55198a21e144eb72cb6eff498cf0691122927f1054fdd865bde1f5d3853a",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "b428423283d784b22de0e09a9af25aa3f2ff702c1777aa85ade90944acad158c",
+   "dana": 204,
    "medijan_barova_dan": 92.0,
    "udio_kvalitete": 1.0
   },
@@ -2959,6 +3048,19 @@
    "sha256": "6380c69cde7e78e5bac27df087f66218d7922bc2281c51570e56ef5fd79c02b7",
    "dana": 244,
    "medijan_barova_dan": 22.0,
+   "krivi_tf": {
+    "dana": 167,
+    "rasponi": [
+     [
+      "2021-01-15",
+      "2021-04-01"
+     ],
+     [
+      "2021-04-06",
+      "2021-09-13"
+     ]
+    ]
+   },
    "udio_kvalitete": 0.239
   },
   "M15/UK100_cash_M15_2022.csv.gz": {
@@ -2983,6 +3085,15 @@
    "sha256": "2b18ccc3633352e4368bc0cc7f569b45d784f5e26f88bfb5ba52549af58e638a",
    "dana": 251,
    "medijan_barova_dan": 92.0,
+   "krivi_tf": {
+    "dana": 53,
+    "rasponi": [
+     [
+      "2023-09-01",
+      "2023-11-14"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "M15/UK100_cash_M15_2024.csv.gz": {
@@ -3013,11 +3124,11 @@
    "simbol": "UK100.cash",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 16832,
+   "redaka": 18108,
    "prvi": "2026-01-02 03:00",
-   "zadnji": "2026-09-24 23:45",
-   "sha256": "e17cca8eca1940461b9a7db0de7060a4f2f6e57adce920254bc03500ce1a5b6a",
-   "dana": 185,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "8c33cccf18f2e19bbf67e1303efaf2a8763fb723b7815bc2f9fa05ea96a2d626",
+   "dana": 199,
    "medijan_barova_dan": 92.0,
    "udio_kvalitete": 1.0
   },
@@ -3031,6 +3142,15 @@
    "sha256": "b0cf0c18570fabe5d066ddc3bf37f4aae124a57738143bb8827207365f4fe530",
    "dana": 246,
    "medijan_barova_dan": 22.0,
+   "krivi_tf": {
+    "dana": 167,
+    "rasponi": [
+     [
+      "2021-01-22",
+      "2021-09-13"
+     ]
+    ]
+   },
    "udio_kvalitete": 0.239
   },
   "M15/US100_cash_M15_2022.csv.gz": {
@@ -3085,11 +3205,11 @@
    "simbol": "US100.cash",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 17353,
+   "redaka": 18641,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 23:45",
-   "sha256": "3440decc13d66cdc906ba6877b2953f79f8161c4191f79b600b4779412e0a52a",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "5ac40e94de070b9ec72c7e2780bef50f6c18c5d4f1ed9e1fc9b728e733a2ea56",
+   "dana": 204,
    "medijan_barova_dan": 92.0,
    "udio_kvalitete": 1.0
   },
@@ -3103,6 +3223,19 @@
    "sha256": "9dbe63478ac044df2e7944807fc45c6d82004c5cdd78bb848b0cf86a3fb34aa0",
    "dana": 209,
    "medijan_barova_dan": 88.0,
+   "krivi_tf": {
+    "dana": 2,
+    "rasponi": [
+     [
+      "2019-04-19",
+      "2019-04-19"
+     ],
+     [
+      "2019-12-25",
+      "2019-12-25"
+     ]
+    ]
+   },
    "udio_kvalitete": 0.957
   },
   "M15/US30_cash_M15_2020.csv.gz": {
@@ -3115,6 +3248,19 @@
    "sha256": "39c6e5a50e6a6c6acdba1d61d5387ece25e47da8747f56cda6cf8eebcb3f199d",
    "dana": 261,
    "medijan_barova_dan": 92.0,
+   "krivi_tf": {
+    "dana": 2,
+    "rasponi": [
+     [
+      "2020-01-01",
+      "2020-01-01"
+     ],
+     [
+      "2020-04-10",
+      "2020-04-10"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "M15/US30_cash_M15_2021.csv.gz": {
@@ -3151,6 +3297,15 @@
    "sha256": "72d7762f55e62a8595d617e5ef2b4e82a1c90552a1a1e2ea030a5260511f1709",
    "dana": 258,
    "medijan_barova_dan": 92.0,
+   "krivi_tf": {
+    "dana": 54,
+    "rasponi": [
+     [
+      "2023-09-01",
+      "2023-11-15"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "M15/US30_cash_M15_2024.csv.gz": {
@@ -3181,11 +3336,11 @@
    "simbol": "US30.cash",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 17263,
+   "redaka": 18641,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 01:15",
-   "sha256": "84a29880e726abab35d777e2aff0691c35e15f0d6524dc261c7442b838e8b473",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "6a137e02a38c3e871fa77f6aef5f642d340b6a765bd62b5934b55b6f04f3ab4b",
+   "dana": 204,
    "medijan_barova_dan": 92.0,
    "udio_kvalitete": 1.0
   },
@@ -3199,6 +3354,15 @@
    "sha256": "615d03033ebc181f659cb1792ec09c81b86e2a80b691ad60168b67d7981b410e",
    "dana": 246,
    "medijan_barova_dan": 22.0,
+   "krivi_tf": {
+    "dana": 167,
+    "rasponi": [
+     [
+      "2021-01-22",
+      "2021-09-13"
+     ]
+    ]
+   },
    "udio_kvalitete": 0.239
   },
   "M15/US500_cash_M15_2022.csv.gz": {
@@ -3223,6 +3387,15 @@
    "sha256": "d284df4c7e1e8617220a1a4c6f2e072151dcf2460dcbad0352d2a63fa48f8f81",
    "dana": 258,
    "medijan_barova_dan": 92.0,
+   "krivi_tf": {
+    "dana": 53,
+    "rasponi": [
+     [
+      "2023-09-01",
+      "2023-11-14"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "M15/US500_cash_M15_2024.csv.gz": {
@@ -3253,11 +3426,11 @@
    "simbol": "US500.cash",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 17353,
+   "redaka": 18641,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 23:45",
-   "sha256": "1fe96bf781105ffc9bd43123532d5ba9ff69a9a99bd996dc0f4c436a30e2ef40",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "2705c2da9d17a773ad9258e8ea9818c2b7116c1898dba9a857f9a63136952fdb",
+   "dana": 204,
    "medijan_barova_dan": 92.0,
    "udio_kvalitete": 1.0
   },
@@ -3331,6 +3504,15 @@
    "sha256": "820d64a67c8ac5d3aee8ffdf7a564071f97988e1960818bfaf795ae928485b04",
    "dana": 259,
    "medijan_barova_dan": 96.0,
+   "krivi_tf": {
+    "dana": 55,
+    "rasponi": [
+     [
+      "2023-09-01",
+      "2023-11-16"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "M15/USDCAD_M15_2024.csv.gz": {
@@ -3361,11 +3543,11 @@
    "simbol": "USDCAD",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 18144,
+   "redaka": 19578,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 01:15",
-   "sha256": "8359ba8dde8c8bdb31ccff42b305b2476f6186a41a6ba352d823f71af320216e",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "39bc0583511f1484e93b167df5764edea792605de6884d408a75e9cdeac79ec4",
+   "dana": 204,
    "medijan_barova_dan": 96.0,
    "udio_kvalitete": 1.0
   },
@@ -3433,10 +3615,10 @@
    "simbol": "USDJPY",
    "tf": "M15",
    "godina": 2023,
-   "redaka": 20898,
+   "redaka": 24862,
    "prvi": "2023-01-02 00:00",
    "zadnji": "2023-12-29 23:45",
-   "sha256": "485fc48c30fb4047795eed4c4740450876a30d022d312de70e31f0f8a7ec2b39",
+   "sha256": "b372ad7a2630a98b92cc473b55487274a5cbf6a853ba68bad05a3985c983d84d",
    "dana": 259,
    "medijan_barova_dan": 96.0,
    "udio_kvalitete": 1.0
@@ -3469,11 +3651,11 @@
    "simbol": "USDJPY",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 18238,
+   "redaka": 19582,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-09-24 23:45",
-   "sha256": "23330b9cc21ff79d085f82f8a7bc32ba156cc64f1087b51bf607373ec0a62cfa",
-   "dana": 190,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "3e73d8431de3031a612a173c03fe51450fadc64e0d64062db8938f92212a1abb",
+   "dana": 204,
    "medijan_barova_dan": 96.0,
    "udio_kvalitete": 1.0
   },
@@ -3547,6 +3729,15 @@
    "sha256": "0ade8e16689262b0558b37e51b07a7e15cadcde46e167619c03779e727c57b04",
    "dana": 257,
    "medijan_barova_dan": 92.0,
+   "krivi_tf": {
+    "dana": 54,
+    "rasponi": [
+     [
+      "2023-09-01",
+      "2023-11-15"
+     ]
+    ]
+   },
    "udio_kvalitete": 1.0
   },
   "M15/XAUUSD_M15_2024.csv.gz": {
@@ -3577,11 +3768,11 @@
    "simbol": "XAUUSD",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 17316,
+   "redaka": 18604,
    "prvi": "2026-01-02 01:00",
-   "zadnji": "2026-09-24 23:45",
-   "sha256": "9bfe589fe070958b4ef944db208f808c0d99d727a6a1ff1617d548142484291c",
-   "dana": 189,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "1713603360cf5e6c9bd20f9320268cae1289b88d10c00aa8082a54f08e65fead",
+   "dana": 203,
    "medijan_barova_dan": 92.0,
    "udio_kvalitete": 1.0
   }
