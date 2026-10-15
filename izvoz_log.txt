@@ -206,3 +206,8 @@ NAPOMENE (12):
   - EU50.cash H1: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-20 19:00) — odbačeno, povijest počinje 2021
   - EU50.cash D1: za 2020 MT5 vratio samo 1 bar(ova) iz druge godine (prvi 2021-01-20 00:00) — odbačeno, povijest počinje 2021
 
+Izvoz 2026-10-15 17:40 UTC | FTMO-Server4 | do 2026-10-14 | zona OK | 22 s
+GREŠKE (0):
+UPOZORENJA (0):
+NAPOMENE (0):
+

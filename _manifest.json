@@ -41,13 +41,13 @@
   "USDCAD|D1": 2018
  },
  "verzija_skripte": "2026-10-11",
- "izvezeno_utc": "2026-10-15 17:36",
+ "izvezeno_utc": "2026-10-15 17:40",
  "do_ukljucivo_broker": "2026-10-14",
  "server": "FTMO-Server4",
  "company": "FTMO Global Markets Ltd",
  "zona_brokera": "America/New_York +7 h",
  "zona_provjera": "OK",
- "zona_opis": "US100.cash: broker = UTC+3 = America/New_York +7 h",
+ "zona_opis": "EURUSD: broker = UTC+3 = America/New_York +7 h",
  "napomena": "time_broker je BROKEROV ZIDNI SAT = New York + 7 h (NE UTC, NE Europe/Helsinki)",
  "datoteke": {
   "D1/AUDUSD_D1_2018.csv.gz": {
@@ -2814,11 +2814,11 @@
    "simbol": "GBPUSD",
    "tf": "M15",
    "godina": 2026,
-   "redaka": 18810,
+   "redaka": 19579,
    "prvi": "2026-01-02 00:00",
-   "zadnji": "2026-10-02 23:15",
-   "sha256": "bd70378c16d0b967ea24a7f873eb5b342d0c3d11c4941643e0c47b54b5760a0d",
-   "dana": 196,
+   "zadnji": "2026-10-14 23:45",
+   "sha256": "819c475d0cf22add02020ab6c19e5516b71235a7118ddcb2f7cd51a4ca3cb9be",
+   "dana": 204,
    "medijan_barova_dan": 96.0,
    "udio_kvalitete": 1.0
   },
